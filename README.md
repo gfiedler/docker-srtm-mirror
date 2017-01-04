@@ -1,4 +1,6 @@
 # srtm-mirror #
+[![Docker Automated build](https://img.shields.io/docker/automated/sftech/srtm-mirror.svg)](https://hub.docker.com/r/sftech/srtm-mirror/)
+
 Mirror of the [SRTM website](https://dds.cr.usgs.gov/srtm/) as Docker container.
 
 ## Overview ##
